@@ -33,13 +33,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
-</div>
-<div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
 </div>
